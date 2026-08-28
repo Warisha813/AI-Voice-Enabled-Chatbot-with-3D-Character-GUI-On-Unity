@@ -26,7 +26,7 @@ An interactive voice-enabled chatbot that integrates natural language processing
 ## Installation & Usage
 
 1. Clone the repository:
-   git clone https://github.com/Faiq-Ali-372/AI-Voice-Enabled-Chatbot-with-3D-Character-GUI-On-Unity.git
+   git clone https://github.com/Warisha813/AI-Voice-Enabled-Chatbot-with-3D-Character-GUI-On-Unity.git
    cd AI-Voice-Enabled-Chatbot
 
 2. Set up the Python environment:
